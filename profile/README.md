@@ -1,6 +1,6 @@
 # 米豆 — 陪你一起照顧寶貝的育兒資訊站
 
-[mitou.com](https://mitou.com) 是聚焦台灣爸媽的育兒資訊平台，從新手爸媽到學齡前，把育兒生活中最需要的資訊整理成一個查得到、看得懂、決定得了的入口。我們相信爸媽不該在最忙亂的時候還要四處比對、來回切換，所以把醫療、托育、親子場域、寶寶用品與育兒創作者放在同一個畫面，陪你照顧好寶貝的每一個成長瞬間。
+[mitou.app](https://mitou.app) 是聚焦台灣爸媽的育兒資訊平台，從新手爸媽到學齡前，把育兒生活中最需要的資訊整理成一個查得到、看得懂、決定得了的入口。我們相信爸媽不該在最忙亂的時候還要四處比對、來回切換，所以把醫療、托育、親子場域、寶寶用品與育兒創作者放在同一個畫面，陪你照顧好寶貝的每一個成長瞬間。
 
 ## 核心價值
 
@@ -17,12 +17,12 @@
 
 ## 熱門分類
 
-- [醫療院所](https://mitou.com/medical)
-- [托育與幼教](https://mitou.com/childcare-education)
-- [親子景點](https://mitou.com/places)
-- [寶寶用品](https://mitou.com/products)
+- [醫療院所](https://mitou.app/medical)
+- [托育與幼教](https://mitou.app/childcare-education)
+- [親子景點](https://mitou.app/places)
+- [寶寶用品](https://mitou.app/products)
 
-更多內容請至 [mitou.com](https://mitou.com)。
+更多內容請至 [mitou.app](https://mitou.app)。
 
 ## 關於我們
 
