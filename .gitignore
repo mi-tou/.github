@@ -1,0 +1,3 @@
+# ignore LLM files that created by development platform auto-process
+.claude/
+CLAUDE.md
